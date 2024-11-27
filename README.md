@@ -2,6 +2,6 @@
 Tomasz Karkulowski 163105  
 Prowadzący: **Kruk Marek**  
 # Zaliczenie  
-- Praca na zajęciach, kolos (abcd) wszystko na Teams  
+- Praca na zajęciach, kolos (abcd) wszystko przesyła się na Teams  
 # Języki  
 - Python, R
